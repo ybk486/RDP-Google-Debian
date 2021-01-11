@@ -18,16 +18,18 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
 * Paste Code
   * Open Browser and open new tab
   * Please click link [here](https://colab.research.google.com/#create=true)
-  * Paste this code
+    create new notebook
+  * Paste this code ctrl+v
   
     ```shell
     ! wget https://raw.githubusercontent.com/fsteamID/RDP-Google-Debian/main/build.sh
     ! chmod +x build.sh
     ! ./build.sh
     ```
-   paste and enter
+   click logo play & please follow next instructions
    
 # Root access
+
     ```
     User     : FSTEAMID
     Password : 1212
