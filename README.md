@@ -17,7 +17,7 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
 * Click Link
 * Paste Code
   * Open Browser and open new tab
-  * Please click link [here] (https://colab.research.google.com/#create=true)
+  * Please click link [here](https://colab.research.google.com/#create=true)
   * Paste this code
   
     ```shell
@@ -28,7 +28,7 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
    paste and enter
    
 # Root access
-    ```shell
+    ```
     User     : FSTEAMID
     Password : 1212
     ```
