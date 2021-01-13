@@ -4,7 +4,8 @@ Create free RDP debian  OS  on Google unlimited
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Recommended Tools"/>
   <img src="https://img.shields.io/badge/Google-RDP-green" />
 </p>
-![FSID IMAGE](https://raw.githubusercontent.com/fsteamID/RDP-Google-Debian/main/show.png)
+
+![Image of FSID](https://raw.githubusercontent.com/fsteamID/RDP-Google-Debian/main/show.png)
   
 
 
