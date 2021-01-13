@@ -32,7 +32,7 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
 
     ```
     User     : FSTEAMID
-    Password : 1212
+    Password : 8426
     ```
 Please follow/star/fork in my project
 thx
