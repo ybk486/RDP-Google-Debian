@@ -1,9 +1,9 @@
 #! /bin/bash
 printf "Installing RDP Be Patience... " >&2
 {
-sudo useradd -m FSID
-sudo adduser FSID sudo
-echo 'FSID:8426' | sudo chpasswd
+sudo useradd -m kxmh
+sudo adduser kxmh sudo
+echo 'FSID:1234' | sudo chpasswd
 sed -i 's/\/bin\/sh/\/bin\/bash/g' /etc/passwd
 sudo apt-get update
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
